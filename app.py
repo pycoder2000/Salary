@@ -12,6 +12,8 @@ st.set_page_config(
     layout="wide",
 )
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
+
 data = pd.read_csv('./Data/Salary_Data.csv')
 
 st.markdown("<h1 style='text-align: center;'>Salary Prediction App</h1>", unsafe_allow_html=True)
