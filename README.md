@@ -4,7 +4,6 @@
 
 Salary Prediction App made with StreamLit just to practice the Streamlit framework
 
-# Salary Predictor
 A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github.com/pycoder2000/Salary/blob/main/app.py) to predict salary based on your years of experience.
 
 ![Final App Animation](./images/Screenshot.png "Website demo")
